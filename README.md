@@ -1,4 +1,4 @@
-# 🔗 URL Shortener - Spring Boot Project
+# 🔗 URL Shortener -  Scalable Link Shortening Service
 
 🚀 A scalable **URL Shortener service** built using **Java, Spring Boot, and MySQL** that converts long URLs into short, shareable links.
 
@@ -310,6 +310,9 @@ This project helped me understand:
 📧 Email: mittapalliswathi57@gmail.com  
 💼 LinkedIn: https://linkedin.com/in/swathi-mittapalli  
 💻 GitHub: https://github.com/swathi-57
+
+---
+⭐ If you like this project, consider **giving it a star on GitHub!**
 
 
 
